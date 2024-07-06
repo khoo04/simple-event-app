@@ -1,6 +1,9 @@
-# simple_event_app
+# Simple Event App
 
-A new Flutter project.
+## Packages Used
+1. [Quick Action](https://pub.dev/packages/quick_actions)
+2. [Flutter Advanced Switch](https://pub.dev/packages/flutter_advanced_switch)
+3. [Shared Preferences](https://pub.dev/packages/shared_preferences)
 
 ## Getting Started
 
