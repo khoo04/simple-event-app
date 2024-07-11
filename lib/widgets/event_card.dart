@@ -5,7 +5,10 @@ import 'package:simple_event_app/widgets/bottom_modal_sheet.dart';
 class EventCard extends StatelessWidget {
   final Event event;
   final Function(bool) changeModalStatusCallBack;
-  const EventCard({super.key, required this.event, required this.changeModalStatusCallBack});
+  const EventCard(
+      {super.key,
+      required this.event,
+      required this.changeModalStatusCallBack});
 
   @override
   Widget build(BuildContext context) {
